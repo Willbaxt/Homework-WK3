@@ -9,7 +9,7 @@ https://willbaxt.github.io/Homework-WK3/    working password generator
 This is a password generator made with javascript. It asks for a length between 8-128 then asks for 
 uppercase, lowercase, numbers and characters. Then makes a password useing only the options selected.
 
-##
-
+## Screanshot
+Assets\Images\willbaxt.github.io_Homework-WK3_.png
 
 
